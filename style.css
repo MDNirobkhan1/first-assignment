@@ -1,0 +1,215 @@
+/* header-part */
+.header {
+    background-image: url('images/banner/banner3.png');
+    height: 800px;
+
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    left: ;
+
+}
+
+.banner {
+    margin-left: 800px;
+    margin-top: 250px;
+    margin-right: 50px;
+    font-size: 15px;
+    padding: 0;
+}
+
+.banner-title {
+    color: wheat;
+    font-size: 50px;
+}
+
+.banner-description {
+    color: wheat;
+    font-size: 15px;
+
+}
+
+.btn-primary {
+    height: 40px;
+    margin-left: 70px;
+    width: 100px;
+    background-color: goldenrod;
+    border: rebeccapurple;
+    border-style: inset;
+    font-size: 15px;
+    margin-top: 20px;
+
+}
+
+.btn-primary:hover {
+    color: white;
+    background-color: darkgray;
+}
+
+/* section-part */
+
+.section-items {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+.section-text {
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+.section-title {
+    font-size: 50px;
+}
+
+.section-description {
+    font-size: 12px;
+    color: gray;
+    margin-left: 10px;
+}
+
+.section-list {
+    font-size: 12px;
+    color: gray;
+}
+
+/* my -plans  */
+.main {
+    text-align: center;
+    font-size: 50px;
+}
+
+.skill-container {
+    display: flex;
+    margin-left: 300px;
+    gap: 70px;
+    margin-top: 80px;
+
+}
+
+.May-Plans {
+    margin-top: 80px;
+}
+
+.skill-title {
+    margin-right: 20px;
+}
+
+.skill-descripction {
+    color: gray;
+
+}
+
+/* gradients */
+
+.text-title {
+    border: 2px solid ghostwhite;
+    text-align: center;
+    background-image: linear-gradient(to right, red, yellow);
+    margin-left: 300px;
+    margin-right: 200px;
+    height: 200px;
+    border-style: inset;
+    margin-top: 70px;
+}
+
+.text-bult {
+    margin-right: 400px;
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+.parimary {
+    margin-right: 550px;
+    color:dodgerblue ;
+    text-align: center;
+    font-size: 15px;
+    background-color:white;
+    height: 50px;
+    width: 120px;
+    border-radius: 12px;
+}
+
+/* footer */
+.foter-section {
+    display: flex;
+    color: white;
+
+}
+
+.main-foter {
+    background-color: black;
+    height: 400px;
+    margin-top: 100px;
+
+}
+
+.foter-items {
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.foter-description {
+    font-size: 15px;
+}
+
+.email {
+    font-size: 15px;
+    background-color: black;
+}
+
+.phone {
+    font-size: 15px;
+}
+
+.foter-text {
+    margin-left: 500px;
+    margin-top: 60px;
+}
+
+.foter-sub {
+    color: aqua;
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+.inter-btn {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+    margin-left: 0px;
+    background-color: dodgerblue;
+    height: 60px;
+    width: 150px;
+    border-radius: 12px;
+}
+
+.email-btn {
+    height: 50px;
+    background-color: black;
+    color: white;
+    border: 2px solid gray;
+    width: 200px;
+}
+/* icons */
+.icons{
+    display: flex;
+    margin-left: 85px;
+    gap:3px;
+    margin-bottom: 20px;
+}
+/* table */
+
+.table-container{
+    background-color: #ff8080;
+    margin-left: 530px;
+    margin-top: 20px;
+   
+}
+.sign-in{
+    text-align: center;
+   
+}
